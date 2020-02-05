@@ -1,0 +1,11 @@
+{
+  "title": "Demo App",
+  "recharge": {
+    "rechargeTitleText": "I would like to recharge",
+    "text1": "Text 1",
+    "text2": "Text 2",
+    "text3": "Text 3",
+    "editText": "Edit"
+  },
+  "submitLabel": "Submit"
+}
