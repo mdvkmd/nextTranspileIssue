@@ -134,7 +134,7 @@ const Recharge = ({ productType, t }) => {
   const submitNum = async () => {
     const resp = await Promise.resolve({
       primaryService: {
-        serviceId: '7021100122',
+        serviceId: '0000000000',
         primeMember: true,
         billingType: 'PREPAID',
         deleted: false,
